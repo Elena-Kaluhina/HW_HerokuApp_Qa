@@ -1,0 +1,5 @@
+18:36:43.467 [main] INFO  herokuQA.core.BaseTest -- Test is started: [loginPositiveTest]
+18:36:48.130 [main] INFO  herokuQA.core.BaseTest -- Test is started: [loginProviderNegativeTest]
+18:36:54.253 [main] INFO  herokuQA.core.BaseTest -- Test is started: [loginProviderNegativeTest]
+18:37:14.819 [main] INFO  herokuQA.core.BaseTest -- Test is started: [loginProviderNegativeTest]
+18:37:17.910 [main] INFO  herokuQA.core.BaseTest -- Test is started: [loginProviderPositiveTest]
